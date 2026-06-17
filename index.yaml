@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  dm:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-06-17T11:53:43.922272717Z"
+    description: A Helm chart for Kubernetes
+    digest: a4d7e645198f37a4c152ba8f134f4f2cf67f89d2f8b25ff7a3d8a470fc2c5d41
+    name: dm
+    type: application
+    urls:
+    - dm-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-06-17T11:53:43.921496323Z"
